@@ -186,19 +186,4 @@
 
   </dependencies>
 
-<distributionManagement>
-    <repository>
-      <id>releases</id>
-      <name>Repositório de Releases</name>
-      <url>${releases-repository}</url>
-      <layout>default</layout>
-    </repository>
-    <snapshotRepository>
-      <id>snapshots</id>
-      <name>Repositório de Snapshots</name>
-      <url>${snapshots-repository}</url>
-      <layout>default</layout>
-    </snapshotRepository>
-  </distributionManagement>
-
 </project>
