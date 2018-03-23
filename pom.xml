@@ -8,9 +8,9 @@
   <packaging>jar</packaging>
   
  <scm>
-    <connection>scm:git:https://github.com/pAmanda/jenkinsTest</connection>
-    <developerConnection>scm:git:https://github.com/pAmanda/jenkinsTest</developerConnection>
-    <url>https://github.com/pAmanda/jenkinsTest</url>
+    <connection>scm:git:https://github.com/BraianNunes/jenkinsTest</connection>
+    <developerConnection>scm:git:https://github.com/BraianNunes/jenkinsTest.git</developerConnection>
+    <url>https://github.com/BraianNunes/jenkinsTest</url>
     <tag>sippe-jenkins-poc-0.0.15</tag>
   </scm>
 
