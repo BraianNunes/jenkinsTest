@@ -23,7 +23,7 @@
   <properties>
     <docker-maven-plugin.version>0.16.9</docker-maven-plugin.version>
     <docker.registry>docker-registry-default.pocose.cabal.com.br</docker.registry>
-    <project.test.version>1</project.test.version>
+    <project.test.version>2</project.test.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.version>1.8</java.version>
     <java.version.source>1.8</java.version.source>
