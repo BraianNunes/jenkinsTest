@@ -4,7 +4,7 @@
 
   <groupId>sippe-jenkins-poc</groupId>
   <artifactId>sippe-jenkins-poc</artifactId>
-  <version>1.1.3-SNAPSHOT</version>
+  <version>1.1.4-SNAPSHOT</version>
   <packaging>jar</packaging>
   
  <scm>
